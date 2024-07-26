@@ -5653,11 +5653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aronc\\source\\repos\\Bootcamp_UnitTest\\Bootcamp_UnitTest\\Bootcamp_UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp_UnitTest\\Bootcamp_UnitTest\\Bootcamp_UnitTest.csproj",
       "projectName": "Bootcamp_UnitTest",
-      "projectPath": "C:\\Users\\aronc\\source\\repos\\Bootcamp_UnitTest\\Bootcamp_UnitTest\\Bootcamp_UnitTest.csproj",
+      "projectPath": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp_UnitTest\\Bootcamp_UnitTest\\Bootcamp_UnitTest.csproj",
       "packagesPath": "C:\\Users\\aronc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aronc\\source\\repos\\Bootcamp_UnitTest\\Bootcamp_UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp_UnitTest\\Bootcamp_UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aronc\\AppData\\Roaming\\NuGet\\NuGet.Config",

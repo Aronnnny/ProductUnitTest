@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bootcamp_UnitTest
-build_property.ProjectDir = C:\Users\aronc\source\repos\Bootcamp_UnitTest\Bootcamp_UnitTest\
+build_property.ProjectDir = C:\Users\aronc\source\repos\Bootcamp\Bootcamp_UnitTest\Bootcamp_UnitTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
